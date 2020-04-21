@@ -132,3 +132,6 @@ dmypy.json
 chromedriver.exe
 geckodriver.exe
 
+#Configfiles
+secrets.py
+
